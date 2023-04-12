@@ -3,6 +3,7 @@ My Telegram ID : [@M155680](https://t.me/m155680)
 # personal website
 
 The best way to showcase your project.
+SPA site with pure JavaScript :)
 
 ## Demo
 
